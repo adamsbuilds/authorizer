@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+  <section id="general" label="General">
+    <category id="detection" label="Detection">
+      <group id="g1" label="Info">
+        <setting id="note"
+                 type="string"
+                 label="Supported addons are currently configured in default.py"
+                 default=""
+                 visible="false" />
+      </group>
+    </category>
+  </section>
+</settings>

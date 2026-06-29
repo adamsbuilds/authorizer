@@ -18,7 +18,7 @@
     <source>https://adamsbuilds.github.io/repo</source>
     <assets>
       <icon>resources/icon.png</icon>
-      <fanart>resources/fanart.jpg</fanart>
+      <fanart>resources/fanart.png</fanart>
     </assets>
   </extension>
 </addon>
